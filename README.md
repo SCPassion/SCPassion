@@ -11,17 +11,10 @@
 ![Convex](https://img.shields.io/badge/-Convex-EE342F?style=flat-square&logo=convex&logoColor=white)
 ![Clerk](https://img.shields.io/badge/-Clerk-6C47FF?style=flat-square&logo=clerk&logoColor=white)
 ![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
-![Solana](https://img.shields.io/badge/-Solana-141414?style=flat-square&logo=solana&logoColor=14F195)
 ![Ethereum](https://img.shields.io/badge/-Ethereum-3C3C3D?style=flat-square&logo=ethereum&logoColor=white)
+![EVM](https://img.shields.io/badge/-EVM-3C3C3D?style=flat-square&logo=ethereum&logoColor=white)
 ![Solidity](https://img.shields.io/badge/-Solidity-363636?style=flat-square&logo=solidity&logoColor=white)
-![OpenAI](https://img.shields.io/badge/-OpenAI-111111?style=flat-square&logo=openai&logoColor=white)
-![Claude](https://img.shields.io/badge/-Claude-1A1A1A?style=flat-square&logo=anthropic&logoColor=white)
-![Codex](https://img.shields.io/badge/-Codex-121212?style=flat-square&logo=openai&logoColor=white)
-![Cursor](https://img.shields.io/badge/-Cursor-111111?style=flat-square&logo=cursor&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-![CLI](https://img.shields.io/badge/-CLI-111111?style=flat-square&logo=gnu-bash&logoColor=white)
 ![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-![Dashboards](https://img.shields.io/badge/-Dashboards-2563EB?style=flat-square&logo=googleanalytics&logoColor=white)
 
 > I build practical software where AI workflows, realtime data, and crypto infrastructure meet. Most of my work lives at the intersection of product surface, backend logic, and execution speed.
 
