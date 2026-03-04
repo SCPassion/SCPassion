@@ -53,9 +53,3 @@ I contribute continuously through shipped repos, active iterations, and public e
 [![X](https://img.shields.io/badge/-scp__web3-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/scp_web3)
 [![Website](https://img.shields.io/badge/-scptech.xyz-0F766E?style=flat-square&logo=googlechrome&logoColor=white)](http://scptech.xyz)
 [![Pyth Board](https://img.shields.io/badge/-pyth.scptech.xyz-2563EB?style=flat-square&logo=googlechrome&logoColor=white)](https://pyth.scptech.xyz)
-
----
-
-### Philosophy
-
-> Ship fast. Ship often. Ship useful. Build for real workflows, not vanity abstractions.
