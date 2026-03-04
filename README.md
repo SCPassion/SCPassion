@@ -25,7 +25,6 @@
 - 🤖 **AI-assisted tooling** - agent workflows, internal automation, and interfaces that remove repetitive engineering work
 - 📈 **Market-data products** - dashboards and data surfaces that make fast-moving signals easier to inspect, track, and act on
 - 🔮 **Oracle + protocol integrations** - backend work around pricing, feeds, token flows, execution, and onchain utility
-- ⚙️ **Developer infrastructure** - tools that shorten the path from idea to implementation to deployment across modern app and cloud stacks
 
 ## Featured Projects
 
@@ -42,9 +41,6 @@
 - **Crypto / Data** - Pyth, Fogo, Ethereum, Solidity, Solana-adjacent systems, oracle flows, market data, protocol integrations
 
 ## GitHub Activity
-
-I contribute continuously through shipped repos, active iterations, and public experiments across product, tooling, and infrastructure.
-
 ![GitHub Contribution Graph](https://ghchart.rshah.org/SCPassion)
 
 ## Connect
