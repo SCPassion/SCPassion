@@ -34,13 +34,6 @@
 - 🐕 **[bark-chase](https://smilechase.scptech.xyz)** - Smile Chase is a web game where you tap a dog to "bark" and burn $CHASE tokens on Fogo mainnet. It demonstrates lightweight product execution tied to onchain interaction.
 - 🎨 **[saga-profolio](https://saga.scptech.xyz)** - A portfolio-style inspection interface built around the Saga Uniswap chainlet. It adds cleaner product presentation on top of protocol and ecosystem experimentation.
 
-## Ongoing Contribution
-
-- **Shipping consistently** - I publish working software regularly and iterate in public
-- **Building leverage** - I care about tools that compress time, reduce manual ops, and make systems easier to run
-- **Bridging layers** - I move comfortably between frontend product work, backend wiring, and protocol integration
-- **Keeping it practical** - I optimize for clear utility, clean interfaces, and repeatable workflows
-
 ## Tech Domains
 
 - **AI / Automation** - OpenAI Codex, Claude Code, agent workflows, tooling, prompt-aware product surfaces
