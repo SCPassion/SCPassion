@@ -6,6 +6,7 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
 ![React](https://img.shields.io/badge/-React-149ECA?style=flat-square&logo=react&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38BDF8?style=flat-square&logo=tailwindcss&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Convex](https://img.shields.io/badge/-Convex-EE342F?style=flat-square&logo=convex&logoColor=white)
 ![Clerk](https://img.shields.io/badge/-Clerk-6C47FF?style=flat-square&logo=clerk&logoColor=white)
