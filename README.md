@@ -71,4 +71,4 @@ I contribute continuously through shipped repos, active iterations, and public e
 
 ### Philosophy
 
-> Ship useful things. Keep the interfaces clear. Contribute consistently. Build for real workflows, not vanity abstractions.
+> Ship fast. Ship often. Ship useful. Build for real workflows, not vanity abstractions.
