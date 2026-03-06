@@ -18,6 +18,13 @@
 
 > I build practical software where AI workflows, realtime data, and crypto infrastructure meet. Most of my work lives at the intersection of product surface, backend logic, and execution speed.
 
+## Connect
+
+[![GitHub](https://img.shields.io/badge/-SCPassion-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/SCPassion)
+[![X](https://img.shields.io/badge/-scp__web3-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/scp_web3)
+[![Website](https://img.shields.io/badge/-scptech.xyz-0F766E?style=flat-square&logo=googlechrome&logoColor=white)](http://scptech.xyz)
+[![Pyth Board](https://img.shields.io/badge/-pyth.scptech.xyz-2563EB?style=flat-square&logo=googlechrome&logoColor=white)](https://pyth.scptech.xyz)
+
 ## Core Expertise
 
 - 💻 **Full stack end-to-end development** - taking products from interface and application logic through backend systems, deployment, and iteration
@@ -42,10 +49,3 @@
 
 ## GitHub Activity
 ![GitHub Contribution Graph](https://ghchart.rshah.org/SCPassion)
-
-## Connect
-
-[![GitHub](https://img.shields.io/badge/-SCPassion-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/SCPassion)
-[![X](https://img.shields.io/badge/-scp__web3-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/scp_web3)
-[![Website](https://img.shields.io/badge/-scptech.xyz-0F766E?style=flat-square&logo=googlechrome&logoColor=white)](http://scptech.xyz)
-[![Pyth Board](https://img.shields.io/badge/-pyth.scptech.xyz-2563EB?style=flat-square&logo=googlechrome&logoColor=white)](https://pyth.scptech.xyz)
