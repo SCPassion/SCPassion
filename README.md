@@ -46,6 +46,3 @@
 - **Frontend / Product** - React, Next.js, Clerk, dashboards, operational UX, fast iteration on interfaces
 - **Backend / Infrastructure** - Convex, Supabase, Vercel, CLIs, backend services, Cursor, VS Code, deployment loops
 - **Crypto / Data** - Pyth, Fogo, Ethereum, Solidity, Solana-adjacent systems, oracle flows, market data, protocol integrations
-
-## GitHub Activity
-![GitHub Contribution Graph](https://ghchart.rshah.org/SCPassion)
