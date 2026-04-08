@@ -33,12 +33,15 @@
 - 📈 **Market-data products** - dashboards and data surfaces that make fast-moving signals easier to inspect, track, and act on
 - 🔮 **Oracle + protocol integrations** - backend work around pricing, feeds, token flows, execution, and onchain utility
 
-## Featured Projects
+## Web3 Projects
 
 - 📉 **[pyth-board](https://pyth.scptech.xyz)** - Pyth Board is a dashboard for tracking Pyth staking positions and monitoring the Pyth Strategic Reserve. It reflects ongoing work in market-data UX and protocol-adjacent visibility.
 - 📊 **[asset-tracking](https://trackany.scptech.xyz)** - Track Any is built to help you scan markets quickly and dig deeper when something moves. It shows a clear focus on responsive data products and usable monitoring interfaces.
 - 🐕 **[bark-chase](https://smilechase.scptech.xyz)** - Smile Chase is a web game where you tap a dog to "bark" and burn $CHASE tokens on Fogo mainnet. It demonstrates lightweight product execution tied to onchain interaction.
 - 🎨 **[saga-profolio](https://saga.scptech.xyz)** - A portfolio-style inspection interface built around the Saga Uniswap chainlet. It adds cleaner product presentation on top of protocol and ecosystem experimentation.
+
+## Web2 Projects
+- 🎌 **[koto-ai](https://kotoai.scptech.xyz/)** - Koto AI is a Japanese learning companion that uses AI to personalize lessons, track progress, and help learners master vocabulary, grammar, and conversation skills. 
 
 ## Tech Domains
 
